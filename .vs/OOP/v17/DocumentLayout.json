@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|c:\\users\\asus\\source\\repos\\oop\\oop\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|solutionrelative:oop\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|c:\\users\\asus\\source\\repos\\oop\\oop\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|solutionrelative:oop\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|c:\\users\\asus\\source\\repos\\oop\\oop\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|solutionrelative:oop\\oop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|c:\\users\\asus\\source\\repos\\oop\\oop\\classesandobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|solutionrelative:oop\\classesandobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|c:\\users\\asus\\source\\repos\\oop\\oop\\abstractionencapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89F3FFB-F712-46FA-8719-452AD3B4BF81}|OOP\\OOP.csproj|solutionrelative:oop\\abstractionencapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abstract.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\Abstract.cs",
+              "RelativeDocumentMoniker": "OOP\\Abstract.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\Abstract.cs",
+              "RelativeToolTip": "OOP\\Abstract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:51:18.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\Inheritance.cs",
+              "RelativeDocumentMoniker": "OOP\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\Inheritance.cs",
+              "RelativeToolTip": "OOP\\Inheritance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:36:01.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstractionEncapsulation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\AbstractionEncapsulation.cs",
+              "RelativeDocumentMoniker": "OOP\\AbstractionEncapsulation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\AbstractionEncapsulation.cs",
+              "RelativeToolTip": "OOP\\AbstractionEncapsulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:28:22.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassesAndObjects.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\ClassesAndObjects.cs",
+              "RelativeDocumentMoniker": "OOP\\ClassesAndObjects.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\ClassesAndObjects.cs",
+              "RelativeToolTip": "OOP\\ClassesAndObjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:50:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OOP.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\OOP.cs",
+              "RelativeDocumentMoniker": "OOP\\OOP.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OOP\\OOP\\OOP.cs",
+              "RelativeToolTip": "OOP\\OOP.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:37:27.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
